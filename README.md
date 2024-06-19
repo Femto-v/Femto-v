@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Skill</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
